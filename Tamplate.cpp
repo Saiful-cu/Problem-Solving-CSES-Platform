@@ -2,7 +2,7 @@
 using namespace std;
 
 void solve(){
-    int n;
+    long long int n;
     cin>> n;
 
 }
