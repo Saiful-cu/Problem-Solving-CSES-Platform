@@ -2,8 +2,9 @@
 using namespace std;
 
 void solve(){
-    long long int n;
+    long long int n,counts=0;
     cin>> n;
+    long long int arr[n];
 
 }
 
